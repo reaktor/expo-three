@@ -42,7 +42,7 @@
   "author": "Nikhilesh Sigatapu",
   "license": "MIT",
   "dependencies": {
-    "@expo/browser-polyfill": "^0.1.1",
+    "@expo/browser-polyfill": "^1.0.0",
     "expo-asset-utils": "~3.0.0"
   },
   "peerDependencies": {
@@ -50,19 +50,20 @@
     "expo-file-system": "*",
     "expo-modules-core": "*",
     "react-native": "*",
-    "three": "^0.127.0"
+    "three": "^0.132.2"
   },
   "devDependencies": {
-    "@types/three": "^0.103.2",
+    "@types/three": "^0.132.2",
     "eslint": "^6.8.0",
-    "expo-asset": "~8.4.0",
-    "expo-file-system": "~13.0.0",
+    "expo-asset": "~8.4.6",
+    "expo-file-system": "~13.2.0",
     "expo-module-scripts": "^2.0.0",
     "prettier": "^1.19.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-native": "0.64.2",
-    "react-native-web": "^0.11.0",
-    "three": "^0.117.1"
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-web": "^0.17.5",
+    "three": "^0.132.2",
+    "yarn": "^1.22.19"
   }
 }
